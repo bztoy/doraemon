@@ -10,4 +10,5 @@
 [Advanced C: The UB and optimizations that trick good programmers.](https://www.youtube.com/watch?v=w3_e9vZj7D8)  
 [This C macro trick is crazy](https://www.youtube.com/watch?v=VdmeoMZjIgs) <<  
 [How I program C - Eskil Steenberg](https://www.youtube.com/watch?v=443UNeGrFoM)  
-[Advice for Writing Small Programs in C - Sean Barrett](https://www.youtube.com/watch?v=eAhWIO1Ra6M)
+[Advice for Writing Small Programs in C - Sean Barrett](https://www.youtube.com/watch?v=eAhWIO1Ra6M)  
+[Arenas, strings and Scuffed Templates in C](https://www.youtube.com/watch?v=3IAlJSIjvH0)

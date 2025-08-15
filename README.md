@@ -1,1 +1,1 @@
-online learning resuorces
+online learning resources
