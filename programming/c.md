@@ -12,4 +12,5 @@
 [How I program C - Eskil Steenberg](https://www.youtube.com/watch?v=443UNeGrFoM)  
 [Advice for Writing Small Programs in C - Sean Barrett](https://www.youtube.com/watch?v=eAhWIO1Ra6M)  
 [Arenas, strings and Scuffed Templates in C](https://www.youtube.com/watch?v=3IAlJSIjvH0)  
-[Best Parallel Build Strategy for C](https://www.youtube.com/watch?v=nRwGKqU5na0)
+[Best Parallel Build Strategy for C](https://www.youtube.com/watch?v=nRwGKqU5na0)  
+[C Programming Full Course for free ⚙️ (2025)](https://www.youtube.com/watch?v=xND0t1pr3KY)
