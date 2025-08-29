@@ -1,9 +1,24 @@
 # C Programming language
 
+## Tools
+
+[clangd](https://clangd.llvm.org/)  
+[Bear](https://github.com/rizsotto/Bear)
+
+to generate a compile_commands.json file, run the following command
+
+```console
+
+$ bare -- <your build command>
+$ bare -- make
+
+```
+
 ## Blog/Article
 
 [Writing memory efficient C structs](https://tomscheers.github.io/2025/07/29/writing-memory-efficient-structs-post.html)  
-[A HTTP Web Server Framework Written In C (Just For Fun)](https://github.com/infraredCoding/cerveur)
+[A HTTP Web Server Framework Written In C (Just For Fun)](https://github.com/infraredCoding/cerveur)  
+[Makefile Tutorial](https://makefiletutorial.com/)
 
 ## Youtube
 
