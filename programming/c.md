@@ -29,3 +29,22 @@ $ bare -- make
 [Arenas, strings and Scuffed Templates in C](https://www.youtube.com/watch?v=3IAlJSIjvH0)  
 [Best Parallel Build Strategy for C](https://www.youtube.com/watch?v=nRwGKqU5na0)  
 [C Programming Full Course for free ⚙️ (2025)](https://www.youtube.com/watch?v=xND0t1pr3KY)
+
+## built-in macros
+
+\_\_LINE\_\_
+\_\_FILE\_\_
+\_\_DATE\_\_
+\_\_TIME\_\_
+\_\_func\_\_
+\_\_VA_ARGS\_\_
+
+## include extern "C"
+
+#ifdef \_\_cplusplus
+extern "C" {
+#endif
+
+#ifdef \_\_cplusplus
+}
+#endif

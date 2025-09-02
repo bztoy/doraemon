@@ -1,8 +1,14 @@
 # C++
 
+## websites
+
+[cppreference.com](https://en.cppreference.com/index.html)  
+[C++ Stories](https://www.cppstories.com/)
+
 ## blogs
 
-[C++ Core Guidelines](https://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines)
+[C++ Core Guidelines](https://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines)  
+[Structured bindings in C++17, 8 years later](https://www.cppstories.com/2025/structured-bindings-cpp26-updates/)
 
 ## Youtube Videos
 
